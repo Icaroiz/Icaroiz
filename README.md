@@ -1,8 +1,8 @@
 
 <div align="center">
-  <a href="https://github.com/Icaroiz"> <br> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaroiz&show_icons=true&theme=light&include_all_commits=true&count_private=true"/><br> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroiz&layout=compact&langs_count=7&theme=light"/><br> 
+  <a href="https://github.com/Icaroiz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaroiz&show_icons=true&theme=light&include_all_commits=true&count_private=true"/><br><br> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroiz&layout=compact&langs_count=7&theme=light"/> 
 </div> 
 <br> 
   <a href="https://www.youtube.com/channel/UC5vNhqvwBFoZp1slytHV-TA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
