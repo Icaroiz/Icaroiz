@@ -1,4 +1,4 @@
-<div>
+<div align = "Center">
   <a href="https://github.com/Icaroiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaroiz&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/Icaroiz">
