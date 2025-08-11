@@ -3,7 +3,6 @@
 <br>
 <div align="center">
 <a href="https://icaroiz.github.io/Site/main/login.html" target="_blank"><img src="https://img.shields.io/badge/Site-vozao.dev-black?style=for-the-badge" ></a>
-<a href="https://twitter.com/Icaroiz85" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andreyaraujodev" ></a>
   <a href="https://www.youtube.com/channel/UC5vNhqvwBFoZp1slytHV-TA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/icaroiz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/icaroiz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
